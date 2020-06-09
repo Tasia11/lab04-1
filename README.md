@@ -247,7 +247,7 @@ EOF
 
 ```sh
 % ex -sc '1i|[![Build Status](https://travis-ci.com/Tasia11/hw04.svg?branch=master)](https://travis-ci.com/Tasia11/hw04)' -cx README.md
-% ex -sc '2i|[![Build Status](https://ci.appveyor.com/api/projects/status/wkbl6ku2g573k1v4?svg=true)](https://ci.appveyor.com/project/nastya-asya/hw04)' -cx README.md
+% ex -sc '2i|[![Build Status](https://ci.appveyor.com/api/projects/status/wkbl6ku2g573k1v4?svg=true)](https://ci.appveyor.com/project/Tasia11/hw04)' -cx README.md
 ```
 
 ## Links
